@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Photo Graph</string>
+    <string name="please_sign_in">Please Sign in</string>
+    <string name="photo_graph">Photo-Graph</string>
+    <string name="graph_only_photos_with_exif_data">Graph only photos with Exif Data</string>
+</resources>
